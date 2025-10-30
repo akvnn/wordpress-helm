@@ -1,0 +1,11 @@
+**/.env
+**/.env.db
+**/.env.wordpress
+
+**/wp-content/languages
+**/wp-content/logs
+**/wp-content/plugins
+**/wp-content/uploads
+
+**/wp-content/debug*
+**/wp-content/mysql.sql
