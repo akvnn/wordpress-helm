@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wordpress-website:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-30T10:11:26.359060294Z"
+    description: A Helm chart for Kubernetes
+    digest: 91546b6c6b9416cafd09353fc6308a55ba121b1ea6d02133f76cf9a4895feb6d
+    name: wordpress-website
+    type: application
+    urls:
+    - https://github.com/akvnn/wordpress-helm/releases/download/wordpress-website-0.1.1/wordpress-website-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-10-30T10:11:26.359065775Z"
